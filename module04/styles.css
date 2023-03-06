@@ -7,7 +7,7 @@ body {
     background-color: #F7F3DE;
     }
 
-    header{
+    header h1 { 
         font-size: 350%;
         color: #7c1a00;
         padding: 40px;
@@ -15,4 +15,31 @@ body {
         background-image: url(images/churros-3-1576378.jpg);
         background-position: left top;
         background-repeat:no-repeat;
+    }
+    
+    #container {
+        margin: bottom 30px; 
+    }
+    
+    nav ul {
+        padding: 0;
+        margin: 0;
+        list-style: none;
+        color:#7c1a00
+    }
+
+    nav li{
+        margin: 10px;
+        border-width: 1px
+        border-style: solid;
+        border-color: #7c1a00;
+        background-color: #ffe597
+    }
+
+    nav a {
+        color: white;
+        background-color: #7c1a00;
+        padding: 3px;
+        padding-right: 60px;
+        text-decoration: none; 
     }
