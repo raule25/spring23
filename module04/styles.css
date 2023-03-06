@@ -10,4 +10,9 @@ body {
     header{
         font-size: 350%;
         color: #7c1a00;
+        padding: 40px;
+        padding-left: 120px;
+        background-image: url(images/churros-3-1576378.jpg);
+        background-position: left top;
+        background-repeat:no-repeat;
     }
