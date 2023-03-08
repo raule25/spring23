@@ -20,6 +20,11 @@ body {
     #container {
         margin: bottom 30px; 
     }
+
+    nav {
+        float: left;
+        width: 150px;
+    }
     
     nav ul {
         padding: 0;
