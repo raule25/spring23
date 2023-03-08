@@ -49,7 +49,7 @@ body {
     }
 
     #content {
-        background-image: trans-bg.gif;
+        background-image: url(images/trans-bg.gif);
         border: 1px;
         margin-left: 180px;
         padding: 10px;
@@ -80,7 +80,7 @@ body {
     }
 
     h3 {
-        background-image:url(images/header-star-1.gif)
+        background-image:url(images/header-star-1.gif);
         padding-left: 20px;
     }
 
