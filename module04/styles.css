@@ -30,7 +30,7 @@ body {
 
     nav li{
         margin: 10px;
-        border-width: 1px
+        border-width: 1px;
         border_style: solid;
         border-color: #7c1a00;
         background-color: #ffe597
@@ -42,4 +42,15 @@ body {
         padding: 3px;
         padding-right: 60px;
         text-decoration: none; 
+    }
+
+    nav a:hover {
+        background-color: #7c1a00;
+    }
+
+    #content {
+        background-image: trans-bg.gif;
+        border: 1px;
+        margin-left: 180px;
+        padding: 10px;
     }
